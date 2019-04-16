@@ -1,0 +1,6 @@
+Django==1.11.8
+django-tinymce==2.8.0
+Pillow==6.0.0
+PyMySQL==0.9.3
+pytz==2018.9
+uWSGI==2.0.18
